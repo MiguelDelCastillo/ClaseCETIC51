@@ -10,3 +10,7 @@ body {
 h2 {
   background-color: #ffa630;
 }
+
+dd{
+    font-style: italic;
+}
